@@ -1,0 +1,5 @@
+Scores,LSTM,Multi-layer LSTM,1D-CNN,1D-CNN+LSTM
+Accuracy,90.91,92.05,91.52,92.37
+F1_scores,90.81,92.15,91.59,92.44
+Precision,91.19,92.17,91.66,92.44
+Recall,90.47,92.14,91.52,92.44

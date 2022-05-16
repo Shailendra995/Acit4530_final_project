@@ -1,0 +1,7 @@
+Activities,Multi-layer LSTM,1D-CNN,1D-CNN+LSTM
+Laying,1,0.95,0.95
+Sitting,0.83,0.79,0.79
+Standing,0.8,0.9,0.9
+Walking,0.94,0.96,0.99
+Walking Down,0.98,1,0.98
+Walking Up,0.98,0.92,0.93
