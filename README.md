@@ -7,11 +7,20 @@ The signals samples were pre-processed by applying noise filters and sampled in 
 ![The number of data points per activity of HAR dataset](https://github.com/Shailendra995/Acit4530_final_project/blob/master/results_images/datapoint_classification.png)
 
 
-<img
-  src="https://github.com/Shailendra995/Acit4530_final_project/blob/master/results_images/datapoint_classification.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+## User guide
+
+I will suggest taking a look at the notebook [Example project](https://github.com/Shailendra995/Acit4530_final_project/blob/master/Human_Activity_Recognition.ipynb). for details. 
+
+## Technologies
+Project is created with:
+* Python version: 3.8 
+* sklearn
+* keras
+* Tensorflow
+
+
+## Setup
+This project uses sklearn, keras and tensorflow. The best way of installing sklearn, keras and tensorlow is by using pip: `$ pip install sklearn` ,  `$ pip install keras` and `$ pip install tensorflow` respectively. 
 
 
 
