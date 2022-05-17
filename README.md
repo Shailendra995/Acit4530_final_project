@@ -4,7 +4,7 @@ This code and the project is created for a mandatory project Acit4530 Data Minin
 
 The signals samples were pre-processed by applying noise filters and sampled in fixed-width sliding windows of 2.56 sec with a 50 percent overlap (i.e. 128 readings/windows). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. 
 
-![image](https://github.com/Shailendra995/Acit4530_final_project/blob/master/results_images/datapoint_classification.pdf)
+![image](https://github.com/Shailendra995/Acit4530_final_project/blob/master/results_images/datapoint_classification.png)
 
 
 
